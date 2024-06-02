@@ -19,6 +19,6 @@ Make sure you have the following dependencies installed:
 You can install the dependencies using pip:
 
 ```bash
-pip install pandas numpy scikit-learn imbalanced-learn
+pip install pandas numpy scikit-learn imbalanced-learn'''
 
 link to dataset:https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
